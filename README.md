@@ -6,14 +6,18 @@
 
 ### <div align="center">STEPS:-</div>
 
-  ## 1. Create a GitHub account( It's free:) )
+  ## 1. Create a GitHub account ( It's free:) )
+  ![](https://i.ibb.co/4WFftgD/Screenshot-from-2020-10-02-00-30-47.jpg)
 
-  ## 2. Go to https://hacktoberfest.digitalocean.com and sign up for a new profile by providing authentication with Github.(It's   very     easy, just follow the steps)
- 
-  ## 3. Then go to https://github.com/SKYR4/C0d3 and fork the whole repo.
+  ## 2. Go to https://hacktoberfest.digitalocean.com and click on Start Hacking button then sign up for a new profile by providing authentication with Github. (It's quite easy, just follow the steps)
+   ![](https://i.ibb.co/PjrrX2M/Screenshot-from-2020-10-02-00-39-10.jpg)
+   
+  ## 3. Then go to https://github.com/SKYR4/C0d3 and fork the whole repository.
   ![](https://i.ibb.co/R4p91T9/fork1.jpg)
+  
+  ## 4. Now go to the forked repository.
 
-  ## 4. Now click on the **Programs** folder and click on **new file**.
+  ## 4. Then click on the **Programs** folder and click on **new file**.
   ![](https://i.ibb.co/PGymWWZ/1-0-2-Git-create-file.png)
 
   ## 5. Type the name of the code with the proper extensions and then write the code in the given area. For eg.- prime.py
