@@ -1,0 +1,9 @@
+def maxsum(A):
+    msum=myet=A[0]
+    for i in A[1:]:
+        msum=max(i,msum+i)
+        myet=max(myet,msum)
+    return myet
+ 
+A=[int(x) for x in input().split()]
+print(maxsum(A))
