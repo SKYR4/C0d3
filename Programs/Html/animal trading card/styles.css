@@ -1,0 +1,33 @@
+.animal-card img{
+    width: 300px;
+    padding-bottom: 20px;
+}
+.fact{
+    font-style: italic;
+}
+
+span{
+    font-weight: bold;
+}
+
+li, ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+body, .info{
+   border-style: solid;
+   border-color: gray;
+   border-width: thin;
+   padding: 20px;
+   padding-top: 20px;
+}
+
+body{
+    box-shadow: 5px 10px #888888;
+    width: 300px;
+}
+
+.animal-card{
+    border-width: 10px;
+}
